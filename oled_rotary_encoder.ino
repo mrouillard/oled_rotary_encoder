@@ -31,7 +31,7 @@ long clickedValue = 0;
 volatile long virtualPosition = 0;
 
 void setup()   {                
-  Serial.begin(9600);
+  Serial.begin(57600);
   Serial.println("Ok!");
   
   // by default, we'll generate the high voltage from the 3.3v line internally! (neat!)
