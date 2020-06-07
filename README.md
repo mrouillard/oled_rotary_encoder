@@ -1,5 +1,7 @@
 # oled_rotary_encoder
 
+[![GitHub license](https://img.shields.io/github/license/mrouillard/oled_rotary_encoder)](https://github.com/mrouillard/oled_rotary_encoder/blob/master/LICENSE)
+
 ## purpose
 
 training on debouncing values read from a rotary encoder.
